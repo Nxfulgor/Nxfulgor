@@ -67,8 +67,10 @@
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
 </span>
 
-<strong>📊 My Github Stats :</strong><br><br>
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+<h2 align="center" style="margin: 5px 10px;">📊 Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=Nxfulgor&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Nxfulgor)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Nxfulgor&theme=material-palenight)](https://github.com/Nxfulgor)
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Nxfulgor&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Nxfulgor&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=Nxfulgor&theme=material-palenight&hide_border=true&background=FFFFFF00">
+</p>
